@@ -10,6 +10,8 @@ Currently supports:
 
 
 **Note: keep in mind that the mod does not prevent overlap of UI elements, you can use offsets to prevent UI elements from overlapping if you want them to be anchored to the same part of the screen.**
+
+
 **Note no.2: While the mod was tested using different screen resolutions it may cause the UI to offset in an unwated way on certain screen sizes, you can use the offsets in settings to mitigate this effect.**
 
 # Installation
