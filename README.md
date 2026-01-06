@@ -10,3 +10,12 @@ Currently supports:
 
 
 **Note: keep in mind that the mod does not prevent overlap of UI elements, you can use offsets to prevent UI elements from overlapping if you want them to be anchored to the same part of the screen.**
+
+# Installation
+
+- Install [Mod Settings](https://github.com/DigitalzombieTLD/ModSettings/releases/), it is required.
+- Download the latest release from the releases page.
+- Drop the .dll file into your mods folder.
+
+## Support
+You can support me via donations [here](https://ko-fi.com/marcythejinx)!
